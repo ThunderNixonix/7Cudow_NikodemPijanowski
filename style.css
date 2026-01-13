@@ -469,7 +469,7 @@ video {
         display: none;
     }
 
-    .media {
+    .multimedia {
         display: none;
     }
     
@@ -593,5 +593,6 @@ img {
     max-width: 100%;
     height: auto;
 }
+
 
 
