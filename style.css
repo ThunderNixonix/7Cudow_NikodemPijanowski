@@ -468,6 +468,10 @@ video {
     .menu-desktop, .menu-tablet {
         display: none;
     }
+
+    .media {
+        display: none;
+    }
     
     .menu-mobile {
         display: block;
@@ -589,4 +593,5 @@ img {
     max-width: 100%;
     height: auto;
 }
+
 
